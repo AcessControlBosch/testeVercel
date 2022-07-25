@@ -12,11 +12,19 @@
             </div>
 
             <div class="row-inferior">
-                <p>{{ error }}</p>
+                <!-- <p>{{ error }}</p>
                 <p>{{ decodedString }}</p>
 
-                <button @click="torch=!torch">TURN ON/ OFF  FLASHLIGHT</button>
-                <qrcode-stream @init="onInit" @decode="onDecode" :torch="torch"> </qrcode-stream>
+                <button @click="torch=!torch">TURN ON/ OFF  FLASHLIGHT</button> -->
+                <div class="content-row-inferior">
+                  <p class="subtitle">Escaneie aqui o QR Code da máquina</p>
+                  <div class="qrCodeCamera">
+                    <qrcode-stream @init="onInit" @decode="onDecode" :torch="torch"> </qrcode-stream>
+                  </div>
+                </div>
+                
+                <p class="errorP" style="color:red;">{{ error }}  </p>
+               
 
             
             </div>
@@ -34,7 +42,7 @@ export default {
     return{
       error:'',
       decodedString:'',
-      torch: false,
+      torch: true,
     }
   },
   components:{
@@ -75,6 +83,9 @@ export default {
 </script>
 
 
-<style>
+<style lang="scss" scoped>
+
+   @import "@/layouts/_normal_pages/Screen_qrCode.scss";
+   @import "@/layouts/_responsividade/responsividade_formularios.scss";
 
 </style>
