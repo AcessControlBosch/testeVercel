@@ -1,0 +1,72 @@
+[
+  {
+    "name": "NotFound",
+    "path": "/NotFound",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\-AcessControlFront_dany-boschManha\\\\pages\\\\NotFound.vue",
+    "chunkName": "pages/NotFound",
+    "_name": "_2e1ce7d0"
+  },
+  {
+    "name": "screen_checklistIncompleto",
+    "path": "/screen_checklistIncompleto",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\-AcessControlFront_dany-boschManha\\\\pages\\\\screen_checklistIncompleto\\\\index.vue",
+    "chunkName": "pages/screen_checklistIncompleto/index",
+    "_name": "_b5b14eb4"
+  },
+  {
+    "name": "screen_criarConta",
+    "path": "/screen_criarConta",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\-AcessControlFront_dany-boschManha\\\\pages\\\\screen_criarConta\\\\index.vue",
+    "chunkName": "pages/screen_criarConta/index",
+    "_name": "_e130df48"
+  },
+  {
+    "name": "screen_cvMeioAmbiente",
+    "path": "/screen_cvMeioAmbiente",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\-AcessControlFront_dany-boschManha\\\\pages\\\\screen_cvMeioAmbiente\\\\index.vue",
+    "chunkName": "pages/screen_cvMeioAmbiente/index",
+    "_name": "_b4ba7ffc"
+  },
+  {
+    "name": "screen_cvSeguranca",
+    "path": "/screen_cvSeguranca",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\-AcessControlFront_dany-boschManha\\\\pages\\\\screen_cvSeguranca\\\\index.vue",
+    "chunkName": "pages/screen_cvSeguranca/index",
+    "_name": "_6acf720a"
+  },
+  {
+    "name": "screen_home",
+    "path": "/screen_home",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\-AcessControlFront_dany-boschManha\\\\pages\\\\screen_home\\\\index.vue",
+    "chunkName": "pages/screen_home/index",
+    "_name": "_a7e8307e"
+  },
+  {
+    "name": "screen_ordemManutencao",
+    "path": "/screen_ordemManutencao",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\-AcessControlFront_dany-boschManha\\\\pages\\\\screen_ordemManutencao\\\\index.vue",
+    "chunkName": "pages/screen_ordemManutencao/index",
+    "_name": "_3ed6fe3c"
+  },
+  {
+    "name": "screen_qrCode",
+    "path": "/screen_qrCode",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\-AcessControlFront_dany-boschManha\\\\pages\\\\screen_qrCode\\\\index.vue",
+    "chunkName": "pages/screen_qrCode/index",
+    "_name": "_2cb4b012"
+  },
+  {
+    "name": "screen_tutorial",
+    "path": "/screen_tutorial",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\-AcessControlFront_dany-boschManha\\\\pages\\\\screen_tutorial\\\\index.vue",
+    "chunkName": "pages/screen_tutorial/index",
+    "_name": "_cc14fe3c"
+  },
+  {
+    "name": "screen_utilizacao",
+    "path": "/screen_utilizacao",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\-AcessControlFront_dany-boschManha\\\\pages\\\\screen_utilizacao\\\\index.vue",
+    "chunkName": "pages/screen_utilizacao/index",
+    "_name": "_6d852a9d"
+  }
+]
